@@ -1,7 +1,7 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:sac_pw2_vision/image_processing/image_processing_page.dart';
-import 'package:sac_pw2_vision/text_processing/text_processing_page.dart';
+import 'package:image_text_analyzer_flutter/image_processing/image_processing_page.dart';
+import 'package:image_text_analyzer_flutter/text_processing/text_processing_page.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);

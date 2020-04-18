@@ -4,7 +4,7 @@ import 'dart:io';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sac_pw2_vision/text_processing/text_detector_painter.dart';
+import 'package:image_text_analyzer_flutter/text_processing/text_detector_painter.dart';
 
 class TextInPictureRecognizerWidget extends StatefulWidget {
   final String imagePath;

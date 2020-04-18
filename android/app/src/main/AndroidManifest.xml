@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sac_pw2_vision">
+    package="com.example.image_text_analyzer_flutter">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
@@ -12,7 +12,7 @@
 
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="sac_pw2_vision"
+        android:label="image_text_analyzer_flutter"
         android:icon="@mipmap/ic_launcher" >
         
         <meta-data

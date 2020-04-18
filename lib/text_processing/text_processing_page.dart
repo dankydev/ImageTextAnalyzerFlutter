@@ -3,8 +3,8 @@ import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:sac_pw2_vision/shared/stack_switch_element.dart';
-import 'package:sac_pw2_vision/text_processing/text_in_picture_recognizer_widget.dart';
+import 'package:image_text_analyzer_flutter/shared/stack_switch_element.dart';
+import 'package:image_text_analyzer_flutter/text_processing/text_in_picture_recognizer_widget.dart';
 
 class TextProcessingPage extends StatefulWidget {
   final CameraController cameraController;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sac_pw2_vision/home_page.dart';
-import 'package:sac_pw2_vision/misc/no_glow_scroll_behavior.dart';
+import 'package:image_text_analyzer_flutter/home_page.dart';
+import 'package:image_text_analyzer_flutter/misc/no_glow_scroll_behavior.dart';
 
 void main() => runApp(MyApp());
 
@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
           child: child,
         );
       },
-      title: 'SACTextAndImageAnalyzer',
+      title: 'ImageTextAnalyzerFlutter',
       theme: ThemeData(
           brightness: Brightness.dark, indicatorColor: Colors.lightBlue),
       home: Scaffold(
