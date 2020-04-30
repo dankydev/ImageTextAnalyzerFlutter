@@ -1,5 +1,5 @@
 name: image_text_analyzer_flutter
-description: A new Flutter project.
+description: Image and text analyzer made with Flutter.
 
 version: 1.0.0+1
 
@@ -29,3 +29,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/
