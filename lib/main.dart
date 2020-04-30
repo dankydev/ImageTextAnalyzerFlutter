@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:image_text_analyzer_flutter/home_page.dart';
 import 'package:image_text_analyzer_flutter/misc/no_glow_scroll_behavior.dart';
 import 'package:image_text_analyzer_flutter/splash.dart';
 
